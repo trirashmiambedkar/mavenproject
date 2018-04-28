@@ -9,10 +9,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
-
-        System.out.println( "HelloGIT!" );
-        
-        System.out.println( "Hello RASHMI BRANCH GIT!" );
+        System.out.println( "MAIN BRANCH Hello World!" );
     }
 }
