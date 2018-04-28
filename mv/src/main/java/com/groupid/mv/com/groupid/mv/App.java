@@ -11,5 +11,8 @@ public class App
     {
         System.out.println( "MAIN BRANCH Hello World!" );
         System.out.println( "RASHMI  BRANCH Hello World!" );
-    }
-}
+        
+        
+        calc  c = new calc();
+        c.add(20, 10);
+    } } 
