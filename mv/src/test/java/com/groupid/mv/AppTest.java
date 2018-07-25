@@ -21,10 +21,10 @@ public class AppTest
     }
 
     
-    public void NEW()
+    public void mASTER()
     {
 
-        System.out.println("MERGE");
+        System.out.println("MERGE -65757567");
 
     
     }
