@@ -40,4 +40,16 @@ public class AppTest
     {
         System.out.println("Test case passed added");
     }
+    
+    
+    public void tc2()
+    {
+        System.out.println("Test case passed added");
+    }
+    
+    
+    public void tc3()
+    {
+        System.out.println("Test case passed added");
+    }
 }
