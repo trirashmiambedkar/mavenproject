@@ -4,20 +4,21 @@ import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
 
-/**
- * Unit test for simple App.
- */
 public class AppTest 
     extends TestCase
 {
+    
     public AppTest( String testName )
     {
         super( testName );
     }
 
-   
-    public void bRANCH()
+    
+    public void branch()
     {
-        System.out.println("branch");
+
+        System.out.println("Branch");
+
+    
     }
 }
