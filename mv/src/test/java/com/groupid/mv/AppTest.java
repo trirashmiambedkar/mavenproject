@@ -38,7 +38,6 @@ public class AppTest
     
     public void testApp2()
     {
-        System.out.println("Test case passed");
-        System.out.println("Test case Failed");
+        System.out.println("Test case passed added");
     }
 }
