@@ -20,10 +20,12 @@ public class AppTest
         super( testName );
     }
 
-  
     
     public void NEW()
     {
-        System.out.println("TBRANCH");
+
+        System.out.println("MERGE");
+
+    
     }
 }
