@@ -36,7 +36,7 @@ public class AppTest
         assertTrue( true );
     }
     
-    public void testApp2()
+    public void Add()
     {
         System.out.println("Test case passed added");
     }
